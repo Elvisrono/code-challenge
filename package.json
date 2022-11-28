@@ -1,0 +1,19 @@
+{
+  "name": "code_challenge_phase1",
+  "version": "1.0.0",
+  "description": "JavaScript conditionals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kericho/code-challenge.git"
+  },
+  "author": "Elvis Rono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kericho/code-challenge/issues"
+  },
+  "homepage": "https://github.com/kericho/code-challenge#readme"
+}
