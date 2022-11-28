@@ -1,10 +1,10 @@
 {
-  "name": "code_challenge_phase1",
+  "name": "code-challenge",
   "version": "1.0.0",
-  "description": "JavaScript conditionals",
+  "description": "JavaScript loops",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm test"
   },
   "repository": {
     "type": "git",

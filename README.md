@@ -1,3 +1,17 @@
+# installation
+
+- Open a terminal / command line interface on your computer
+- Clone the repo by using the following:
+
+        git clone https://github.com/kericho/code-challenge.git
+
+- Be patient as it creates a copy on your local machine for you.
+- Change directory to the repo folder:
+
+        cd code-challenge
+
+- (Optional) Open it in ``Visual Studio Code``
+
 # code-challenge grading system
 This application is created to maintain a record of student database. Once entered a record cannot be deleted or modified. The Teachear can get list of all students or a particular student grades. It mainly uses else if statements to determine the students grade.
 
@@ -13,3 +27,10 @@ and other benefits. In this case one is used to use the condion if else if to de
     console.log(gross - (gross*taxRate(gross)) - nssfDeduction - nhifDeduction(gross))
 }
 "
+
+# Authors
+This project was contributed to by:
+- [Elvis Rono](https://github.com/kericho/)
+
+# License
+The project is licensed under Apache 2.0.
