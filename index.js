@@ -122,10 +122,6 @@ readline.question('Please enter your gross salary: ', gross => {
     salary(gross)
     readline.close()
 })
-//white_check_mark
-//eyes
-//raised_hands
-
 
 
 
