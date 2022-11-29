@@ -12,6 +12,15 @@
 
 - (Optional) Open it in ``Visual Studio Code``
 
+- Install required dependencies from npm
+
+      npm install
+- Run the application
+
+      npm start
+ - The use of conditional statement is used in order to completed the challenge. 
+
+
 # code-challenge grading system
 This application is created to maintain a record of student database. Once entered a record cannot be deleted or modified. The Teachear can get list of all students or a particular student grades. It mainly uses else if statements to determine the students grade.
 
